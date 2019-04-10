@@ -19,12 +19,12 @@ if python3:
     import certifi
 
 config={
-    "apiKey": "AIzaSyCQZXsJoPay0R5Uoe_g3TlHUBvb6fmxnWw",
-    "authDomain": "trial-6d399.firebaseapp.com",
-    "databaseURL": "https://trial-6d399.firebaseio.com",
-    "projectId": "trial-6d399",
-    "storageBucket": "trial-6d399.appspot.com",
-    "messagingSenderId": "26993915592"
+    "apiKey": "api_key",
+    "authDomain": "domain",
+    "databaseURL": "db_url",
+    "projectId": "id",
+    "storageBucket": "bucket",
+    "messagingSenderId": "msg_id"
 }
 
 #SEARCH_URL = 'https://www.google.com/searchbyimage?image_url='
