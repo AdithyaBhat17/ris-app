@@ -2,7 +2,7 @@ Flask==0.10.1
 pycurl==7.19.5
 beautifulsoup4==4.6.0
 flask_cors==3.0.6
-certifi==2018.4.16
+certifi==2019.11.28
 requests==2.19.1
 gunicorn==19.9.0
 pyrebase==3.0.27
